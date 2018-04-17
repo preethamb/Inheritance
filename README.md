@@ -1,0 +1,2 @@
+# Inheritance
+second concept
